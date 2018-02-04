@@ -1,0 +1,1992 @@
+﻿/// ETHOS VSF BANK DATA
+/// Data for Claims Membership and Proof of Funds from verified institutional lenders.
+/// v0.0.1
+/// Author: Veysel Cetiner <veysel@ethos.io>
+
+{
+    "ethos-vsf-institution" : [
+        // United States
+        {
+		"id" :1,
+		"hexId" : "0x0001",
+		"name" : "Home BancShares",
+		"region" : "US"
+		},
+        {
+		"id" :2,
+		"hexId" : "0x0002",
+		"name" : "Western Alliance Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :3,
+		"hexId" : "0x0003",
+		"name" : "Bank of the Ozarks",
+		"region" : "US"
+		},
+        {
+		"id" :4,
+		"hexId" : "0x0004",
+		"name" : "First Merchants",
+		"region" : "US"
+		},
+        {
+		"id" :5,
+		"hexId" : "0x0005",
+		"name" : "East West Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :6,
+		"hexId" : "0x0006",
+		"name" : "Community Bank System",
+		"region" : "US"
+		},
+        {
+		"id" :7,
+		"hexId" : "0x0007",
+		"name" : "Prosperity Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :8,
+		"hexId" : "0x0008",
+		"name" : "FCB Financial Holdings",
+		"region" : "US"
+		},
+        {
+		"id" :9,
+		"hexId" : "0x0009",
+		"name" : "First Hawaiian",
+		"region" : "US"
+		},
+        {
+		"id" :10,
+		"hexId" : "0x000A",
+		"name" : "Glacier Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :11,
+		"hexId" : "0x000B",
+		"name" : "Columbia Banking System",
+		"region" : "US"
+		},
+        {
+		"id" :12,
+		"hexId" : "0x000C",
+		"name" : "Cathay General Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :13,
+		"hexId" : "0x000D",
+		"name" : "Cullen/Frost Bankers",
+		"region" : "US"
+		},
+        {
+		"id" :14,
+		"hexId" : "0x000E",
+		"name" : "South State",
+		"region" : "US"
+		},
+        {
+		"id" :15,
+		"hexId" : "0x000F",
+		"name" : "First Republic Bank",
+		"region" : "US"
+		},
+        {
+		"id" :16,
+		"hexId" : "0x0010",
+		"name" : "Bank of Hawaii",
+		"region" : "US"
+		},
+        {
+		"id" :17,
+		"hexId" : "0x0011",
+		"name" : "WesBanco",
+		"region" : "US"
+		},
+        {
+		"id" :18,
+		"hexId" : "0x0012",
+		"name" : "State Street",
+		"region" : "US"
+		},
+        {
+		"id" :19,
+		"hexId" : "0x0013",
+		"name" : "International Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :20,
+		"hexId" : "0x0014",
+		"name" : "Independent Bank Group",
+		"region" : "US"
+		},
+        {
+		"id" :21,
+		"hexId" : "0x0015",
+		"name" : "Hope Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :22,
+		"hexId" : "0x0016",
+		"name" : "PacWest Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :23,
+		"hexId" : "0x0017",
+		"name" : "SVB Financial Group",
+		"region" : "US"
+		},
+        {
+		"id" :24,
+		"hexId" : "0x0018",
+		"name" : "New York Comm. Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :25,
+		"hexId" : "0x0019",
+		"name" : "Hilltop Holdings",
+		"region" : "US"
+		},
+        {
+		"id" :26,
+		"hexId" : "0x001A",
+		"name" : "Pinnacle Financial Partners",
+		"region" : "US"
+		},
+        {
+		"id" :27,
+		"hexId" : "0x001B",
+		"name" : "Renasant",
+		"region" : "US"
+		},
+        {
+		"id" :28,
+		"hexId" : "0x001C",
+		"name" : "Washington Federal",
+		"region" : "US"
+		},
+        {
+		"id" :29,
+		"hexId" : "0x001D",
+		"name" : "Commerce Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :30,
+		"hexId" : "0x001E",
+		"name" : "Capital One Financial",
+		"region" : "US"
+		},
+        {
+		"id" :31,
+		"hexId" : "0x001F",
+		"name" : "Sterling Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :32,
+		"hexId" : "0x0020",
+		"name" : "Cadence Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :33,
+		"hexId" : "0x0021",
+		"name" : "Bank of New York Mellon",
+		"region" : "US"
+		},
+        {
+		"id" :34,
+		"hexId" : "0x022",
+		"name" : "Investors Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :35,
+		"hexId" : "0x0023",
+		"name" : "Banner",
+		"region" : "US"
+		},
+        {
+		"id" :36,
+		"hexId" : "0x0024",
+		"name" : "MB Financial",
+		"region" : "US"
+		},
+        {
+		"id" :37,
+		"hexId" : "0x0025",
+		"name" : "First Financial Bancorp.",
+		"region" : "US"
+		},
+        {
+		"id" :38,
+		"hexId" : "0x0026",
+		"name" : "Central Banco",
+		"region" : "US"
+		},
+        {
+		"id" :39,
+		"hexId" : "0x0027",
+		"name" : "First Citizens BancShares",
+		"region" : "US"
+		},
+        {
+		"id" :40,
+		"hexId" : "0x0028",
+		"name" : "JPMorgan Chase",
+		"region" : "US"
+		},
+        {
+		"id" :41,
+		"hexId" : "0x0029",
+		"name" : "Chemical Financial",
+		"region" : "US"
+		},
+        {
+		"id" :42,
+		"hexId" : "0x002A",
+		"name" : "M&T Bank",
+		"region" : "US"
+		},
+        {
+		"id" :43,
+		"hexId" : "0x002B",
+		"name" : "Northern Trust",
+		"region" : "US"
+		},
+        {
+		"id" :44,
+		"hexId" : "0x002C",
+		"name" : "United Bankshares",
+		"region" : "US"
+		},
+        {
+		"id" :45,
+		"hexId" : "0x002D",
+		"name" : "Umpqua Holdings",
+		"region" : "US"
+		},
+        {
+		"id" :46,
+		"hexId" : "0x002E",
+		"name" : "Northwest Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :47,
+		"hexId" : "0x002F",
+		"name" : "Capitol Federal Financial",
+		"region" : "US"
+		},
+        {
+		"id" :48,
+		"hexId" : "0x0030",
+		"name" : "BancorpSouth Bank",
+		"region" : "US"
+		},
+        {
+		"id" :49,
+		"hexId" : "0x0031",
+		"name" : "Great Western Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :50,
+		"hexId" : "0x0032",
+		"name" : "United Community Banks",
+		"region" : "US"
+		},
+        {
+		"id" :51,
+		"hexId" : "0x0033",
+		"name" : "Provident Financial Svcs",
+		"region" : "US"
+		},
+        {
+		"id" :52,
+		"hexId" : "0x0034",
+		"name" : "Simmons First National",
+		"region" : "US"
+		},
+        {
+		"id" :53,
+		"hexId" : "0x0035",
+		"name" : "Fifth Third Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :54,
+		"hexId" : "0x0036",
+		"name" : "BB&T",
+		"region" : "US"
+		},
+        {
+		"id" :55,
+		"hexId" : "0x0037",
+		"name" : "Comerica",
+		"region" : "US"
+		},
+        {
+		"id" :56,
+		"hexId" : "0x0038",
+		"name" : "Wintrust Financial",
+		"region" : "US"
+		},
+        {
+		"id" :57,
+		"hexId" : "0x0039",
+		"name" : "NBT Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :58,
+		"hexId" : "0x003A",
+		"name" : "Zions Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :59,
+		"hexId" : "0x003B",
+		"name" : "LegacyTexas Financial",
+		"region" : "US"
+		},
+        {
+		"id" :60,
+		"hexId" : "0x003C",
+		"name" : "Heartland Financial USA",
+		"region" : "US"
+		},
+        {
+		"id" :61,
+		"hexId" : "0x003D",
+		"name" : "KeyCorp",
+		"region" : "US"
+		},
+        {
+		"id" :62,
+		"hexId" : "0x003E",
+		"name" : "U.S. Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :63,
+		"hexId" : "0x003F",
+		"name" : "First Interstate BancSystem",
+		"region" : "US"
+		},
+        {
+		"id" :64,
+		"hexId" : "0x0040",
+		"name" : "Berkshire Hills Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :65,
+		"hexId" : "0x0041",
+		"name" : "F.N.B.",
+		"region" : "US"
+		},
+        {
+		"id" :66,
+		"hexId" : "0x0042",
+		"name" : "First Midwest Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :67,
+		"hexId" : "0x0043",
+		"name" : "Texas Capital Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :68,
+		"hexId" : "0x0044",
+		"name" : "PNC Financial Services",
+		"region" : "US"
+		},
+        {
+		"id" :69,
+		"hexId" : "0x0045",
+		"name" : "Citigroup",
+		"region" : "US"
+		},
+        {
+		"id" :70,
+		"hexId" : "0x0046",
+		"name" : "Synovus Financial",
+		"region" : "US"
+		},
+        {
+		"id" :71,
+		"hexId" : "0x0047",
+		"name" : "BankUnited",
+		"region" : "US"
+		},
+        {
+		"id" :72,
+		"hexId" : "0x0048",
+		"name" : "Union Bankshares",
+		"region" : "US"
+		},
+        {
+		"id" :73,
+		"hexId" : "0x0049",
+		"name" : "Flagstar Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :74,
+		"hexId" : "0x004A",
+		"name" : "Wells Fargo",
+		"region" : "US"
+		},
+        {
+		"id" :75,
+		"hexId" : "0x004B",
+		"name" : "Huntington Bancshares",
+		"region" : "US"
+		},
+        {
+		"id" :76,
+		"hexId" : "0x004C",
+		"name" : "Old National Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :77,
+		"hexId" : "0x004D",
+		"name" : "Customers Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :78,
+		"hexId" : "0x004E",
+		"name" : "UMB Financial",
+		"region" : "US"
+		},
+        {
+		"id" :79,
+		"hexId" : "0x004F",
+		"name" : "BOK Financial",
+		"region" : "US"
+		},
+        {
+		"id" :80,
+		"hexId" : "0x0050",
+		"name" : "Webster Financial",
+		"region" : "US"
+		},
+        {
+		"id" :81,
+		"hexId" : "0x0051",
+		"name" : "Signature Bank",
+		"region" : "US"
+		},
+        {
+		"id" :82,
+		"hexId" : "0x0052",
+		"name" : "Trustmark",
+		"region" : "US"
+		},
+        {
+		"id" :83,
+		"hexId" : "0x0053",
+		"name" : "TFS Financial",
+		"region" : "US"
+		},
+        {
+		"id" :84,
+		"hexId" : "0x0054",
+		"name" : "Fulton Financial",
+		"region" : "US"
+		},
+        {
+		"id" :85,
+		"hexId" : "0x0055",
+		"name" : "Bank of America",
+		"region" : "US"
+		},
+        {
+		"id" :86,
+		"hexId" : "0x0056",
+		"name" : "First National of Nebraska",
+		"region" : "US"
+		},
+        {
+		"id" :87,
+		"hexId" : "0x0057",
+		"name" : "First BanCorp.",
+		"region" : "US"
+		},
+        {
+		"id" :88,
+		"hexId" : "0x0058",
+		"name" : "Valley National Bancorp",
+		"region" : "US"
+		},
+        {
+		"id" :89,
+		"hexId" : "0x0059",
+		"name" : "CIT Group",
+		"region" : "US"
+		},
+        {
+		"id" :90,
+		"hexId" : "0x005A",
+		"name" : "Citizens Financial Group",
+		"region" : "US"
+		},
+        {
+		"id" :91,
+		"hexId" : "0x005B",
+		"name" : "Popular",
+		"region" : "US"
+		},
+        {
+		"id" :92,
+		"hexId" : "0x005C",
+		"name" : "People's United Financial",
+		"region" : "US"
+		},
+        {
+		"id" :93,
+		"hexId" : "0x005D",
+		"name" : "Regions Financial",
+		"region" : "US"
+		},
+        {
+		"id" :94,
+		"hexId" : "0x005E",
+		"name" : "TCF Financial",
+		"region" : "US"
+		},
+        {
+		"id" :95,
+		"hexId" : "0x005F",
+		"name" : "IBERIABANK",
+		"region" : "US"
+		},
+        {
+		"id" :96,
+		"hexId" : "0x0060",
+		"name" : "First Horizon National",
+		"region" : "US"
+		},
+        {
+		"id" :97,
+		"hexId" : "0x0061",
+		"name" : "Hancock Holding",
+		"region" : "US"
+		},
+        {
+		"id" :98,
+		"hexId" : "0x0062",
+		"name" : "Associated Banc-Corp",
+		"region" : "US"
+		},
+        {
+		"id" :99,
+		"hexId" : "0x0063",
+		"name" : "SunTrust Banks",
+		"region" : "US"
+		},
+        {
+		"id" :100,
+		"hexId" : "0x0064",
+		"name" : "Banc of California",
+		"region" : "US"
+        },
+        // Canada
+        {
+		"id" :300,
+		"hexId" : "0x012C",
+		"name" : "Toronto-Dominion Bank",
+		"region" : "CA"
+		},
+        {
+		"id" :301,
+		"hexId" : "0x012D",
+		"name" : "Royal Bank of Canada",
+		"region" : "CA"
+		},
+        {
+		"id" :302,
+		"hexId" : "0x012E",
+		"name" : "Bank of Nova Scotia",
+		"region" : "CA"
+		},
+        {
+		"id" :303,
+		"hexId" : "0x012F",
+		"name" : "Bank of Montreal",
+		"region" : "CA"
+		},
+        {
+		"id" :304,
+		"hexId" : "0x0130",
+		"name" : "Canadian Imperial Bank of Commerce",
+		"region" : "CA"
+		},
+        {
+		"id" :305,
+		"hexId" : "0x0131",
+		"name" : "Desjardins Group",
+		"region" : "CA"
+		},
+        {
+		"id" :306,
+		"hexId" : "0x0132",
+		"name" : "National Bank of Canada",
+		"region" : "CA"
+		},
+        {
+		"id" :307,
+		"hexId" : "0x0133",
+		"name" : "HSBC Bank Canada",
+		"region" : "CA"
+		},
+        {
+		"id" :308,
+		"hexId" : "0x0134",
+		"name" : "Laurentian Bank of Canada",
+		"region" : "CA"
+		},
+        {
+		"id" :309,
+		"hexId" : "0x0135",
+		"name" : "Canadian Western Bank",
+		"region" : "CA"
+		},
+        // United Kingdom
+        {
+		"id" :400,
+		"hexId" : "0x0190",
+		"name" : "HSBC Holdings",
+		"region" : "UK"
+		},
+        {
+		"id" :401,
+		"hexId" : "0x0191",
+		"name" : "Barclays",
+		"region" : "UK"
+		},
+        {
+		"id" :402,
+		"hexId" : "0x0192",
+		"name" : "Lloyds Banking Group",
+		"region" : "UK"
+		},
+        {
+		"id" :403,
+		"hexId" : "0x0193",
+		"name" : "Royal Bank of Scotland",
+		"region" : "UK"
+		},
+        {
+		"id" :404,
+		"hexId" : "0x0194",
+		"name" : "Standard Chartered",
+		"region" : "UK"
+		},
+        {
+		"id" :405,
+		"hexId" : "0x0195",
+		"name" : "National Westminster Bank",
+		"region" : "UK"
+		},
+        {
+		"id" :406,
+		"hexId" : "0x0196",
+		"name" : "Santander UK",
+		"region" : "UK"
+		},
+        {
+		"id" :407,
+		"hexId" : "0x0197",
+		"name" : "Virgin Money Holdings (UK)",
+		"region" : "UK"
+		},
+        {
+		"id" :408,
+		"hexId" : "0x0198",
+		"name" : "CYBG PLC",
+		"region" : "UK"
+		},
+        {
+		"id" :409,
+		"hexId" : "0x0199",
+		"name" : "The Co-operative Bank",
+		"region" : "UK"
+		},
+        {
+		"id" :410,
+		"hexId" : "0x019A",
+		"name" : "Tesco Bank",
+		"region" : "UK"
+		},
+        {
+		"id" :411,
+		"hexId" : "0x019B",
+		"name" : "Metro Bank",
+		"region" : "UK"
+		},
+        // Switzerland
+        {
+		"id" :500,
+		"hexId" : "0x01F4",
+		"name" : "UBS Group AG",
+		"region" : "CH"
+		},
+        {
+		"id" :501,
+		"hexId" : "0x01F5",
+		"name" : "Credit Suisse Group",
+		"region" : "CH"
+		},
+        {
+		"id" :502,
+		"hexId" : "0x01F6",
+		"name" : "Raiffeisen Group",
+		"region" : "CH"
+		},
+        {
+		"id" :503,
+		"hexId" : "0x01F7",
+		"name" : "Zürcher Kantonalbank",
+		"region" : "CH"
+		},
+        {
+		"id" :504,
+		"hexId" : "0x01F8",
+		"name" : "Julius Baer Group",
+		"region" : "CH"
+		},
+        {
+		"id" :505,
+		"hexId" : "0x01F9",
+		"name" : "Banque Cantonale Vaudoise",
+		"region" : "CH"
+		},
+        {
+		"id" :506,
+		"hexId" : "0x01FA",
+		"name" : "EFG International",
+		"region" : "CH"
+		},
+        {
+		"id" :507,
+		"hexId" : "0x01FB",
+		"name" : "Basler Kantonalbank",
+		"region" : "CH"
+		},
+        {
+		"id" :508,
+		"hexId" : "0x01FC",
+		"name" : "Luzerner Kantonalbank",
+		"region" : "CH"
+		},
+        {
+		"id" :509,
+		"hexId" : "0x01FD",
+		"name" : "St. Galler Kantonalbank",
+		"region" : "CH"
+		},
+        {
+		"id" :510,
+		"hexId" : "0x01FE",
+		"name" : "Union Bancaire Privee",
+		"region" : "CH"
+		},
+        // Sweden
+        {
+		"id" :600,
+		"hexId" : "0x0258",
+		"name" : "Nordea Bank",
+		"region" : "SE"
+		},
+        {
+		"id" :601,
+		"hexId" : "0x0259",
+		"name" : "Svenska Handelsbanken",
+		"region" : "SE"
+		},
+        {
+		"id" :602,
+		"hexId" : "0x025A",
+		"name" : "Skandinaviska Enskilda Banken",
+		"region" : "SE"
+		},
+        {
+		"id" :603,
+		"hexId" : "0x025B",
+		"name" : "Swedbank",
+		"region" : "SE"
+		},
+        // Netherlands
+        {
+		"id" :700,
+		"hexId" : "0x02BC",
+		"name" : "ING Groep",
+		"region" : "NL"
+		},
+        {
+		"id" :701,
+		"hexId" : "0x02BD",
+		"name" : "Rabobank",
+		"region" : "NL"
+		},
+        {
+		"id" :702,
+		"hexId" : "0x02BE",
+		"name" : "ABN AMRO",
+		"region" : "NL"
+		},
+        {
+		"id" :703,
+		"hexId" : "0x02BF",
+		"name" : "Bank Nederlandse Gemeenten (BNG)",
+		"region" : "NL"
+		},
+        {
+		"id" :704,
+		"hexId" : "0x02C0",
+		"name" : "Nederlandse Waterschapsbank",
+		"region" : "NL"
+		},
+        {
+		"id" :705,
+		"hexId" : "0x02C1",
+		"name" : "SNS Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :706,
+		"hexId" : "0x02C2",
+		"name" : "NIBC Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :707,
+		"hexId" : "0x02C3",
+		"name" : "LeasePlan Corporation",
+		"region" : "NL"
+		},
+        {
+		"id" :708,
+		"hexId" : "0x02C4",
+		"name" : "RBS N.V.",
+		"region" : "NL"
+		},
+        {
+		"id" :709,
+		"hexId" : "0x02C5",
+		"name" : "F. van Lanschot Bankiers",
+		"region" : "NL"
+		},
+        {
+		"id" :710,
+		"hexId" : "0x02C6",
+		"name" : "Achmea Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :711,
+		"hexId" : "0x02C7",
+		"name" : "Nationale Nederlanden Bank (NN)",
+		"region" : "NL"
+		},
+        {
+		"id" :712,
+		"hexId" : "0x02C8",
+		"name" : "AEGON Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :713,
+		"hexId" : "0x02C9",
+		"name" : "Nederlandse Financierings-Mij voor Ontwikkelingslanden",
+		"region" : "NL"
+		},
+        {
+		"id" :714,
+		"hexId" : "0x02CA",
+		"name" : "Triodos Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :715,
+		"hexId" : "0x02CB",
+		"name" : "Bank of Tokyo-Mitsubishi UFJ (Holland)",
+		"region" : "NL"
+		},
+        {
+		"id" :716,
+		"hexId" : "0x02CC",
+		"name" : "Credit Europe Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :717,
+		"hexId" : "0x02CD",
+		"name" : "Kas Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :718,
+		"hexId" : "0x02CE",
+		"name" : "Garantibank International",
+		"region" : "NL"
+		},
+        {
+		"id" :719,
+		"hexId" : "0x02CF",
+		"name" : "BinckBank",
+		"region" : "NL"
+		},
+        {
+		"id" :720,
+		"hexId" : "0x02D0",
+		"name" : "Yapi Kredi Bank Nederland",
+		"region" : "NL"
+		},
+        {
+		"id" :721,
+		"hexId" : "0x02D1",
+		"name" : "DHB Bank (Nederland)",
+		"region" : "NL"
+		},
+        {
+		"id" :722,
+		"hexId" : "0x02D2",
+		"name" : "ASR Bank",
+		"region" : "NL"
+		},
+        {
+		"id" :723,
+		"hexId" : "0x02D3",
+		"name" : "Theodoor Gilissen Bankiers",
+		"region" : "NL"
+		},
+        {
+		"id" :724,
+		"hexId" : "0x02D4",
+		"name" : "Anadolubank Nederland",
+		"region" : "NL"
+		},
+        {
+		"id" :725,
+		"hexId" : "0x02D5",
+		"name" : "Allianz Nederland Asset Management",
+		"region" : "NL"
+		},
+        {
+		"id" :726,
+		"hexId" : "0x02D6",
+		"name" : "Hof Hoorneman Bankiers",
+		"region" : "NL"
+		},
+        {
+		"id" :727,
+		"hexId" : "0x02D7",
+		"name" : "Bank Ten Cate & Cie",
+		"region" : "NL"
+		},
+        {
+		"id" :728,
+		"hexId" : "0x02D8",
+		"name" : "UBS Bank (Netherlands)",
+		"region" : "NL"
+		},
+        // Norway
+        {
+		"id" :800,
+		"hexId" : "0x0320",
+		"name" : "Bank Norwegian",
+		"region" : "NO"
+		},
+        {
+		"id" :801,
+		"hexId" : "0x0321",
+		"name" : "BN Bank ASA",
+		"region" : "NO"
+		},
+        {
+		"id" :802,
+		"hexId" : "0x0322",
+		"name" : "Cresco",
+		"region" : "NO"
+		},
+        {
+		"id" :803,
+		"hexId" : "0x0323",
+		"name" : "Danske Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :804,
+		"hexId" : "0x0324",
+		"name" : "DNB ASA",
+		"region" : "NO"
+		},
+        {
+		"id" :805,
+		"hexId" : "0x0325",
+		"name" : "DNB Bank ASA",
+		"region" : "NO"
+		},
+        {
+		"id" :806,
+		"hexId" : "0x0326",
+		"name" : "Eika Gruppen",
+		"region" : "NO"
+		},
+        {
+		"id" :807,
+		"hexId" : "0x0327",
+		"name" : "Express Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :808,
+		"hexId" : "0x0328",
+		"name" : "Fokus Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :809,
+		"hexId" : "0x0329",
+		"name" : "Handelsbanken",
+		"region" : "NO"
+		},
+        {
+		"id" :810,
+		"hexId" : "0x032A",
+		"name" : "Landkreditt Bank AS",
+		"region" : "NO"
+		},
+        {
+		"id" :811,
+		"hexId" : "0x032B",
+		"name" : "Nordea Bank Norge ASA",
+		"region" : "NO"
+		},
+        {
+		"id" :812,
+		"hexId" : "0x032C",
+		"name" : "Nordlandsbanken",
+		"region" : "NO"
+		},
+        {
+		"id" :813,
+		"hexId" : "0x032D",
+		"name" : "Norges Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :814,
+		"hexId" : "0x032E",
+		"name" : "Santander Consumer Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :815,
+		"hexId" : "0x032F",
+		"name" : "Storebrand ASA",
+		"region" : "NO"
+		},
+        {
+		"id" :816,
+		"hexId" : "0x0330",
+		"name" : "Storebrand Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :817,
+		"hexId" : "0x0331",
+		"name" : "SpareBank 1 Gruppen",
+		"region" : "NO"
+		},
+        {
+		"id" :818,
+		"hexId" : "0x0332",
+		"name" : "Sparebanken Hedmark",
+		"region" : "NO"
+		},
+        {
+		"id" :819,
+		"hexId" : "0x0333",
+		"name" : "SpareBank 1 Nord-Norge",
+		"region" : "NO"
+		},
+        {
+		"id" :820,
+		"hexId" : "0x0334",
+		"name" : "SpareBank 1 SMN",
+		"region" : "NO"
+		},
+        {
+		"id" :821,
+		"hexId" : "0x0335",
+		"name" : "SpareBank 1 SR-Bank",
+		"region" : "NO"
+		},
+        {
+		"id" :822,
+		"hexId" : "0x0336",
+		"name" : "Sparebanken Ost",
+		"region" : "NO"
+		},
+        {
+		"id" :823,
+		"hexId" : "0x0337",
+		"name" : "Sparebanken Vest",
+		"region" : "NO"
+		},
+        {
+		"id" :824,
+		"hexId" : "0x0338",
+		"name" : "Vekselbanken",
+		"region" : "NO"
+		},
+        {
+		"id" :825,
+		"hexId" : "0x0339",
+		"name" : "YA Bank",
+		"region" : "NO"
+		},
+        // Germany
+        {
+		"id" :900,
+		"hexId" : "0x0384",
+		"name" : "Deutsche Bank",
+		"region" : "DE"
+		},
+        {
+		"id" :901,
+		"hexId" : "0x0385",
+		"name" : "Commerzbank",
+		"region" : "DE"
+		},
+        {
+		"id" :902,
+		"hexId" : "0x0386",
+		"name" : "DZ Bank Group",
+		"region" : "DE"
+		},
+        {
+		"id" :903,
+		"hexId" : "0x0387",
+		"name" : "KfW Group",
+		"region" : "DE"
+		},
+        {
+		"id" :904,
+		"hexId" : "0x0388",
+		"name" : "HypoVereinsbank (UniCredit Bank AG)",
+		"region" : "DE"
+		},
+        {
+		"id" :905,
+		"hexId" : "0x0389",
+		"name" : "Landesbank Baden-Wurttemberg",
+		"region" : "DE"
+		},
+        {
+		"id" :906,
+		"hexId" : "0x038A",
+		"name" : "Bayerische Landesbank (BayernLB)",
+		"region" : "DE"
+		},
+        {
+		"id" :907,
+		"hexId" : "0x038B",
+		"name" : "Norddeutsche Landesbank (Nord/LB)",
+		"region" : "DE"
+		},
+        {
+		"id" :908,
+		"hexId" : "0x038C",
+		"name" : "Landesbank Hessen Thueringen (Helaba)",
+		"region" : "DE"
+		},
+        {
+		"id" :909,
+		"hexId" : "0x038D",
+		"name" : "NRW.BANK",
+		"region" : "DE"
+		},
+        {
+		"id" :910,
+		"hexId" : "0x038E",
+		"name" : "Deka Group",
+		"region" : "DE"
+		},
+        // Denmark
+        {
+		"id" :1000,
+		"hexId" : "0x03E8",
+		"name" : "Danske Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1001,
+		"hexId" : "0x03E9",
+		"name" : "Nykredit     ",
+		"region" : "DK"
+		},
+        {
+		"id" :1002,
+		"hexId" : "0x03EA",
+		"name" : "Jyske Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1003,
+		"hexId" : "0x03EB",
+		"name" : "Nordea Bank Danmark",
+		"region" : "DK"
+		},
+        {
+		"id" :1004,
+		"hexId" : "0x03EC",
+		"name" : "Sydbank   ",
+		"region" : "DK"
+		},
+        {
+		"id" :1005,
+		"hexId" : "0x03ED",
+		"name" : "Alm Brand A/S",
+		"region" : "DK"
+		},
+        {
+		"id" :1006,
+		"hexId" : "0x03EE",
+		"name" : "Arbejdernes Landsbank",
+		"region" : "DK"
+		},
+        {
+		"id" :1007,
+		"hexId" : "0x03EF",
+		"name" : "BankNordik",
+		"region" : "DK"
+		},
+        {
+		"id" :1008,
+		"hexId" : "0x03F0",
+		"name" : "Danske Andelskassers Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1009,
+		"hexId" : "0x03F1",
+		"name" : "FIH Erhvervsbank",
+		"region" : "DK"
+		},
+        {
+		"id" :1010,
+		"hexId" : "0x03F2",
+		"name" : "Nordjyske Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1011,
+		"hexId" : "0x03F3",
+		"name" : "Norresundby Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1012,
+		"hexId" : "0x03F4",
+		"name" : "Ringkjobing Landbobank",
+		"region" : "DK"
+		},
+        {
+		"id" :1013,
+		"hexId" : "0x03F5",
+		"name" : "Saxo Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1014,
+		"hexId" : "0x03F6",
+		"name" : "Sparbank A/S",
+		"region" : "DK"
+		},
+        {
+		"id" :1015,
+		"hexId" : "0x03F7",
+		"name" : "Sparekassen Kronjylland",
+		"region" : "DK"
+		},
+        {
+		"id" :1016,
+		"hexId" : "0x03F8",
+		"name" : "Sparekassen Lolland A/S",
+		"region" : "DK"
+		},
+        {
+		"id" :1017,
+		"hexId" : "0x03F9",
+		"name" : "Sparekassen Sjaelland",
+		"region" : "DK"
+		},
+        {
+		"id" :1018,
+		"hexId" : "0x03FA",
+		"name" : "Spar Nord Bank",
+		"region" : "DK"
+		},
+        {
+		"id" :1019,
+		"hexId" : "0x03FB",
+		"name" : "Vestjysk Bank",
+		"region" : "DK"
+		},
+        // Austria
+        {
+		"id" :1100,
+		"hexId" : "0x044C",
+		"name" : "Erste Group Bank",
+		"region" : "AT"
+		},
+        {
+		"id" :1101,
+		"hexId" : "0x044D",
+		"name" : "Raiffeisen Bank (RZB Group)",
+		"region" : "AT"
+		},
+        {
+		"id" :1102,
+		"hexId" : "0x044E",
+		"name" : "UniCredit Bank Austria AG",
+		"region" : "AT"
+		},
+        {
+		"id" :1103,
+		"hexId" : "0x044F",
+		"name" : "BAWAG P.S.K.",
+		"region" : "AT"
+		},
+        {
+		"id" :1104,
+		"hexId" : "0x0450",
+		"name" : "Raiffeisenlandesbank Oberosterreich",
+		"region" : "AT"
+		},
+        {
+		"id" :1105,
+		"hexId" : "0x0451",
+		"name" : "Österreichische Kontrollbank AG",
+		"region" : "AT"
+		},
+        {
+		"id" :1106,
+		"hexId" : "0x0452",
+		"name" : "Raiffeisenlandesbank Niederoesterreich-Wien AG",
+		"region" : "AT"
+		},
+        {
+		"id" :1107,
+		"hexId" : "0x0453",
+		"name" : "Oberbank AG",
+		"region" : "AT"
+		},
+        {
+		"id" :1108,
+		"hexId" : "0x0454",
+		"name" : "HYPO NOE Gruppe",
+		"region" : "AT"
+		},
+        {
+		"id" :1109,
+		"hexId" : "0x0455",
+		"name" : "Raiffeisen-Landesbank Steiermark",
+		"region" : "AT"
+		},
+        {
+		"id" :1110,
+		"hexId" : "0x0456",
+		"name" : "Hypo Landesbank Vorarlberg",
+		"region" : "AT"
+		},
+        {
+		"id" :1111,
+		"hexId" : "0x0457",
+		"name" : "KA Finanz AG",
+		"region" : "AT"
+		},
+        {
+		"id" :1112,
+		"hexId" : "0x0458",
+		"name" : "Addiko Bank",
+		"region" : "AT"
+		},
+        // Belgium
+        {
+		"id" :1200,
+		"hexId" : "0x04B0",
+		"name" : "Argenta",
+		"region" : "BE"
+		},
+        {
+		"id" :1201,
+		"hexId" : "0x04B1",
+		"name" : "AXA Bank Europe",
+		"region" : "BE"
+		},
+        {
+		"id" :1202,
+		"hexId" : "0x04B2",
+		"name" : "Banco Monte Paschi Belgio",
+		"region" : "BE"
+		},
+        {
+		"id" :1203,
+		"hexId" : "0x04B3",
+		"name" : "Banque CPH",
+		"region" : "BE"
+		},
+        {
+		"id" :1204,
+		"hexId" : "0x04B4",
+		"name" : "Bank J Van Breda and C",
+		"region" : "BE"
+		},
+        {
+		"id" :1205,
+		"hexId" : "0x04B5",
+		"name" : "BBVA Belgica",
+		"region" : "BE"
+		},
+        {
+		"id" :1206,
+		"hexId" : "0x04B6",
+		"name" : "Banque Triodos",
+		"region" : "BE"
+		},
+        {
+		"id" :1207,
+		"hexId" : "0x04B7",
+		"name" : "Belfius Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1208,
+		"hexId" : "0x04B8",
+		"name" : "Beobank NV/SA",
+		"region" : "BE"
+		},
+        {
+		"id" :1209,
+		"hexId" : "0x04B9",
+		"name" : "Bpost Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1210,
+		"hexId" : "0x04BA",
+		"name" : "BNP Paribas Fortis",
+		"region" : "BE"
+		},
+        {
+		"id" :1211,
+		"hexId" : "0x04BB",
+		"name" : "Crelan",
+		"region" : "BE"
+		},
+        {
+		"id" :1212,
+		"hexId" : "0x04BC",
+		"name" : "Delen Private Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1213,
+		"hexId" : "0x04BD",
+		"name" : "Europabank",
+		"region" : "BE"
+		},
+        {
+		"id" :1214,
+		"hexId" : "0x04BE",
+		"name" : "Hello Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1215,
+		"hexId" : "0x04BF",
+		"name" : "ING Belgium",
+		"region" : "BE"
+		},
+        {
+		"id" :1216,
+		"hexId" : "0x04C0",
+		"name" : "Keytrade Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1217,
+		"hexId" : "0x04C1",
+		"name" : "KBC Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1218,
+		"hexId" : "0x04C2",
+		"name" : "National Bank of Belgium",
+		"region" : "BE"
+		},
+        {
+		"id" :1219,
+		"hexId" : "0x04C3",
+		"name" : "Rabobank Belgium",
+		"region" : "BE"
+		},
+        {
+		"id" :1220,
+		"hexId" : "0x04C4",
+		"name" : "Record Bank",
+		"region" : "BE"
+		},
+        {
+		"id" :1221,
+		"hexId" : "0x04C5",
+		"name" : "Santander Consumer Finance",
+		"region" : "BE"
+		},
+        {
+		"id" :1222,
+		"hexId" : "0x04C6",
+		"name" : "Unico Banking Group",
+		"region" : "BE"
+		},
+        {
+		"id" :1223,
+		"hexId" : "0x04C7",
+		"name" : "Van Lanschot Bankiers Belgie",
+		"region" : "BE"
+		},
+        {
+		"id" :1224,
+		"hexId" : "0x04C8",
+		"name" : "VDK Spaarbank",
+		"region" : "BE"
+		},
+        {
+		"id" :1225,
+		"hexId" : "0x04C9",
+		"name" : "Dexia SA",
+		"region" : "BE"
+		},
+        // Democratic People's Republic of China
+        {
+		"id" :1300,
+		"hexId" : "0x0514",
+		"name" : "Industrial and Commercial Bank of China",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1301,
+		"hexId" : "0x0515",
+		"name" : "China Construction Bank",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1302,
+		"hexId" : "0x0516",
+		"name" : "Agricultural Bank of China",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1303,
+		"hexId" : "0x0517",
+		"name" : "Bank of China",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1304,
+		"hexId" : "0x0518",
+		"name" : "China Development Bank",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1305,
+		"hexId" : "0x0519",
+		"name" : "Bank of Communications",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1306,
+		"hexId" : "0x051A",
+		"name" : "Postal Savings Bank of China (PSBC)",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1307,
+		"hexId" : "0x051B",
+		"name" : "Industrial Bank Co Ltd",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1308,
+		"hexId" : "0x051C",
+		"name" : "China Merchants Bank",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1309,
+		"hexId" : "0x051D",
+		"name" : "Agricultural Development Bank of China",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1310,
+		"hexId" : "0x051E",
+		"name" : "Shanghai Pudong Development Bank",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1311,
+		"hexId" : "0x051F",
+		"name" : "China Minsheng Banking Corp",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1312,
+		"hexId" : "0x0520",
+		"name" : "China Citic Bank Corp",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1313,
+		"hexId" : "0x0521",
+		"name" : "China Everbright Bank",
+		"region" : "DPRC"
+		},
+        {
+		"id" :1314,
+		"hexId" : "0x0522",
+		"name" : "The Export-Import Bank of China (Eximbank)",
+		"region" : "DPRC"
+		},
+        // Japan
+        {
+		"id" :1400,
+		"hexId" : "0x0578",
+		"name" : "Mitsubishi UFJ Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1401,
+		"hexId" : "0x0579",
+		"name" : "Japan Post Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1402,
+		"hexId" : "0x057A",
+		"name" : "Sumitomo Mitsui Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1403,
+		"hexId" : "0x057B",
+		"name" : "Mizuho Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1404,
+		"hexId" : "0x057C",
+		"name" : "Norinchukin Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1405,
+		"hexId" : "0x057D",
+		"name" : "Sumitomo Mitsui Trust Holdings",
+		"region" : "JPN"
+		},
+        {
+		"id" :1406,
+		"hexId" : "0x057E",
+		"name" : "Resona Holdings",
+		"region" : "JPN"
+		},
+        {
+		"id" :1407,
+		"hexId" : "0x057F",
+		"name" : "Nomura Holdings",
+		"region" : "JPN"
+		},
+        {
+		"id" :1408,
+		"hexId" : "0x0580",
+		"name" : "Shinkin Central Bank (SCB)",
+		"region" : "JPN"
+		},
+        {
+		"id" :1409,
+		"hexId" : "0x0581",
+		"name" : "Fukuoka Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1410,
+		"hexId" : "0x0582",
+		"name" : "Concordia Financial Group (1)",
+		"region" : "JPN"
+		},
+        {
+		"id" :1411,
+		"hexId" : "0x0583",
+		"name" : "Mebuki Financial Group (2)",
+		"region" : "JPN"
+		},
+        {
+		"id" :1412,
+		"hexId" : "0x0584",
+		"name" : "Chiba Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1413,
+		"hexId" : "0x0585",
+		"name" : "Shoko Chukin Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1414,
+		"hexId" : "0x0586",
+		"name" : "Hokuhoku Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1415,
+		"hexId" : "0x0587",
+		"name" : "Shizuoka Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1416,
+		"hexId" : "0x0588",
+		"name" : "Yamaguchi Financial Group",
+		"region" : "JPN"
+		},
+        {
+		"id" :1417,
+		"hexId" : "0x0589",
+		"name" : "Kyushu Financial Group (3)",
+		"region" : "JPN"
+		},
+        {
+		"id" :1418,
+		"hexId" : "0x058A",
+		"name" : "Shinsei Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1419,
+		"hexId" : "0x058B",
+		"name" : "Nishi-Nippon Financial Holdings",
+		"region" : "JPN"
+		},
+        {
+		"id" :1420,
+		"hexId" : "0x058C",
+		"name" : "North Pacific Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1421,
+		"hexId" : "0x058D",
+		"name" : "Hiroshima Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1422,
+		"hexId" : "0x058E",
+		"name" : "Hachijuni Bank",
+		"region" : "JPN"
+		},
+        {
+		"id" :1423,
+		"hexId" : "0x058F",
+		"name" : "Bank of Kyoto",
+		"region" : "JPN"
+		},
+        {
+		"id" :1424,
+		"hexId" : "0x0590",
+		"name" : "77 Bank",
+		"region" : "JPN"
+		},
+        // South Korea
+        {
+		"id" :1500,
+		"hexId" : "0x05DC",
+		"name" : "KB Financial Group",
+		"region" : "SKO"
+		},
+        {
+		"id" :1501,
+		"hexId" : "0x05DD",
+		"name" : "Shinhan Financial Group",
+		"region" : "SKO"
+		},
+        {
+		"id" :1502,
+		"hexId" : "0x05DE",
+		"name" : "NongHyup Financial Group",
+		"region" : "SKO"
+		},
+        {
+		"id" :1503,
+		"hexId" : "0x05DF",
+		"name" : "Hana Financial Group",
+		"region" : "SKO"
+		},
+        {
+		"id" :1504,
+		"hexId" : "0x05E0",
+		"name" : "Korea Development Bank",
+		"region" : "SKO"
+		},
+        {
+		"id" :1505,
+		"hexId" : "0x05E1",
+		"name" : "Woori Bank",
+		"region" : "SKO"
+		},
+        {
+		"id" :1506,
+		"hexId" : "0x05E2",
+		"name" : "Industrial Bank of Korea",
+		"region" : "SKO"
+		},
+        {
+		"id" :1507,
+		"hexId" : "0x05E3",
+		"name" : "BNK Financial Group *",
+		"region" : "SKO"
+		},
+        {
+		"id" :1508,
+		"hexId" : "0x05E4",
+		"name" : "DGB Financial Group",
+		"region" : "SKO"
+		},
+       // Singapore
+        {
+		"id" :1600,
+		"hexId" : "0x0640",
+		"name" : "AFC Merchant Bank",
+		"region" : "SG"
+		},
+        {
+		"id" :1601,
+		"hexId" : "0x0641",
+		"name" : "Bank of Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1602,
+		"hexId" : "0x0642",
+		"name" : "Bank of India Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1603,
+		"hexId" : "0x0643",
+		"name" : "Citibank Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1604,
+		"hexId" : "0x0644",
+		"name" : "DBS Group",
+		"region" : "SG"
+		},
+        {
+		"id" :1605,
+		"hexId" : "0x0645",
+		"name" : "Far Eastern Bank",
+		"region" : "SG"
+		},
+        {
+		"id" :1606,
+		"hexId" : "0x0646",
+		"name" : "FinatiQ",
+		"region" : "SG"
+		},
+        {
+		"id" :1607,
+		"hexId" : "0x0647",
+		"name" : "CIC Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1608,
+		"hexId" : "0x0648",
+		"name" : "HSBC Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1609,
+		"hexId" : "0x0649",
+		"name" : "Keppel TatLee Bank",
+		"region" : "SG"
+		},
+        {
+		"id" :1610,
+		"hexId" : "0x064A",
+		"name" : "Maybank Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1611,
+		"hexId" : "0x064B",
+		"name" : "Monetary Authority of Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1612,
+		"hexId" : "0x064C",
+		"name" : "Oversea-Chinese Banking Corp",
+		"region" : "SG"
+		},
+        {
+		"id" :1613,
+		"hexId" : "0x064D",
+		"name" : "RHB Bank Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1614,
+		"hexId" : "0x064E",
+		"name" : "Standard Chartered Bank Singapore",
+		"region" : "SG"
+		},
+        {
+		"id" :1615,
+		"hexId" : "0x064F",
+		"name" : "Islamic Bank of Asia",
+		"region" : "SG"
+		},
+        {
+		"id" :1616,
+		"hexId" : "0x0650",
+		"name" : "United Overseas Bank (UOB)",
+		"region" : "SG"
+        }
+    ] // "ethos-vsf-banks"
+}
