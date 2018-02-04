@@ -47,7 +47,7 @@ contract Ethos-Verified-Funds {
         bytes32 indexed key,
         uint removedAt);
 
-    // create or update clams
+    // creates or updates a claim
     function setClaim(address subject, bytes32 key, bytes32 value) public {
         registry[msg.sender][subject][key] = value;
         ClaimSet(msg.sender, subject, key, value, now);
