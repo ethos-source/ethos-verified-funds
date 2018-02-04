@@ -11,24 +11,24 @@ The Ethos-Verified-Funds smart contract provides an interface for adding, gettin
 ### setClaim
 To be used by an `issuer` to set the claim `value` with the `key` about the `subject`.
 
-function setClaim(address subject, bytes32 key, bytes32 value) public;
+`function setClaim(address subject, bytes32 key, bytes32 value) public;`
 
 ### setSelfClaim
 To be used by an `issuer` to set a claim about themself.
 
-function setSelfClaim(bytes32 key, bytes32 value) public;
+`function setSelfClaim(bytes32 key, bytes32 value) public;`
 
 ### getClaim
 Used by anyone to verify a specific claim.
 
-function getClaim(address issuer, address subject, bytes32 key) public constant returns (bytes32);
+`function getClaim(address issuer, address subject, bytes32 key) public constant returns (bytes32);`
 
 ### removeClaim
 To be used by the `issuer` to remove a claim it has made, or by a `subject` to remove a claim made by someone about the `subject`.
 
-function removeClaim(address issuer, address subject, bytes32 key) public;
+`function removeClaim(address issuer, address subject, bytes32 key) public;`
 
-## Implementation
+## Proposed Implementation
 ```
 contract Ethos-Verified-Funds {
 
