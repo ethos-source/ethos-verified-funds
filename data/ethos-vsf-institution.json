@@ -5,7 +5,7 @@
 
 {
     "ethos-vsf-institution" : [
-        // United States
+
         {
 		"id" :1,
 		"hexId" : "0x0001",
@@ -606,7 +606,7 @@
 		"name" : "Banc of California",
 		"region" : "US"
         },
-        // Canada
+
         {
 		"id" :300,
 		"hexId" : "0x012C",
@@ -667,7 +667,7 @@
 		"name" : "Canadian Western Bank",
 		"region" : "CA"
 		},
-        // United Kingdom
+
         {
 		"id" :400,
 		"hexId" : "0x0190",
@@ -740,7 +740,7 @@
 		"name" : "Metro Bank",
 		"region" : "UK"
 		},
-        // Switzerland
+
         {
 		"id" :500,
 		"hexId" : "0x01F4",
@@ -807,7 +807,7 @@
 		"name" : "Union Bancaire Privee",
 		"region" : "CH"
 		},
-        // Sweden
+
         {
 		"id" :600,
 		"hexId" : "0x0258",
@@ -832,7 +832,7 @@
 		"name" : "Swedbank",
 		"region" : "SE"
 		},
-        // Netherlands
+
         {
 		"id" :700,
 		"hexId" : "0x02BC",
@@ -1007,7 +1007,7 @@
 		"name" : "UBS Bank (Netherlands)",
 		"region" : "NL"
 		},
-        // Norway
+
         {
 		"id" :800,
 		"hexId" : "0x0320",
@@ -1164,7 +1164,7 @@
 		"name" : "YA Bank",
 		"region" : "NO"
 		},
-        // Germany
+
         {
 		"id" :900,
 		"hexId" : "0x0384",
@@ -1231,7 +1231,7 @@
 		"name" : "Deka Group",
 		"region" : "DE"
 		},
-        // Denmark
+
         {
 		"id" :1000,
 		"hexId" : "0x03E8",
@@ -1352,7 +1352,7 @@
 		"name" : "Vestjysk Bank",
 		"region" : "DK"
 		},
-        // Austria
+
         {
 		"id" :1100,
 		"hexId" : "0x044C",
@@ -1431,7 +1431,7 @@
 		"name" : "Addiko Bank",
 		"region" : "AT"
 		},
-        // Belgium
+
         {
 		"id" :1200,
 		"hexId" : "0x04B0",
@@ -1588,7 +1588,7 @@
 		"name" : "Dexia SA",
 		"region" : "BE"
 		},
-        // Democratic People's Republic of China
+
         {
 		"id" :1300,
 		"hexId" : "0x0514",
@@ -1679,7 +1679,7 @@
 		"name" : "The Export-Import Bank of China (Eximbank)",
 		"region" : "DPRC"
 		},
-        // Japan
+
         {
 		"id" :1400,
 		"hexId" : "0x0578",
@@ -1830,7 +1830,7 @@
 		"name" : "77 Bank",
 		"region" : "JPN"
 		},
-        // South Korea
+
         {
 		"id" :1500,
 		"hexId" : "0x05DC",
@@ -1885,7 +1885,7 @@
 		"name" : "DGB Financial Group",
 		"region" : "SKO"
 		},
-       // Singapore
+
         {
 		"id" :1600,
 		"hexId" : "0x0640",
@@ -1988,5 +1988,5 @@
 		"name" : "United Overseas Bank (UOB)",
 		"region" : "SG"
         }
-    ] // "ethos-vsf-banks"
+    ] 
 }
