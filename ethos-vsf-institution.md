@@ -2,36 +2,36 @@
 
 id | hexId | name | region
 --- | --- | --- | ---
-1300 | 0x0514 | Industrial and Commercial Bank of China | DPRC
-1301 | 0x0515 | China Construction Bank | DPRC
-1302 | 0x0516 | Agricultural Bank of China | DPRC
-1303 | 0x0517 | Bank of China | DPRC
+1300 | 0x0514 | Industrial and Commercial Bank of China | PRC
+1301 | 0x0515 | China Construction Bank | PRC
+1302 | 0x0516 | Agricultural Bank of China | PRC
+1303 | 0x0517 | Bank of China | PRC
 1400 | 0x0578 | Mitsubishi UFJ Financial Group | JPN
 40 | 0x0028 | JPMorgan Chase | US
 85 | 0x0055 | Bank of America | US
-1304 | 0x0518 | China Development Bank | DPRC
+1304 | 0x0518 | China Development Bank | PRC
 74 | 0x004A | Wells Fargo | US
 69 | 0x0045 | Citigroup | US
 400 | 0x0190 | HSBC Holdings | UK
 1401 | 0x0579 | Japan Post Bank | JPN
 1402 | 0x057A | Sumitomo Mitsui Financial Group | JPN
 1403 | 0x057B | Mizuho Financial Group | JPN
-1305 | 0x0519 | Bank of Communications | DPRC
-1306 | 0x051A | Postal Savings Bank of China (PSBC) | DPRC
+1305 | 0x0519 | Bank of Communications | PRC
+1306 | 0x051A | Postal Savings Bank of China (PSBC) | PRC
 401 | 0x0191 | Barclays | UK
 1404 | 0x057C | Norinchukin Bank | JPN
-1307 | 0x051B | Industrial Bank Co Ltd | DPRC
-1308 | 0x051C | China Merchants Bank | DPRC
-1309 | 0x051D | Agricultural Development Bank of China | DPRC
-1310 | 0x051E | Shanghai Pudong Development Bank | DPRC
-1311 | 0x051F | China Minsheng Banking Corp | DPRC
-1312 | 0x0520 | China Citic Bank Corp | DPRC
+1307 | 0x051B | Industrial Bank Co Ltd | PRC
+1308 | 0x051C | China Merchants Bank | PRC
+1309 | 0x051D | Agricultural Development Bank of China | PRC
+1310 | 0x051E | Shanghai Pudong Development Bank | PRC
+1311 | 0x051F | China Minsheng Banking Corp | PRC
+1312 | 0x0520 | China Citic Bank Corp | PRC
 402 | 0x0192 | Lloyds Banking Group | UK
 403 | 0x0193 | Royal Bank of Scotland | UK
-1313 | 0x0521 | China Everbright Bank | DPRC
+1313 | 0x0521 | China Everbright Bank | PRC
 1405 | 0x057D | Sumitomo Mitsui Trust Holdings | JPN
 404 | 0x0194 | Standard Chartered | UK
-1314 | 0x0522 | The Export-Import Bank of China (Eximbank) | DPRC
+1314 | 0x0522 | The Export-Import Bank of China (Eximbank) | PRC
 62 | 0x003E | U.S. Bancorp | US
 1406 | 0x057E | Resona Holdings | JPN
 1407 | 0x057F | Nomura Holdings | JPN

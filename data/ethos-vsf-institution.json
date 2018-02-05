@@ -1593,91 +1593,91 @@
 		"id" :1300,
 		"hexId" : "0x0514",
 		"name" : "Industrial and Commercial Bank of China",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1301,
 		"hexId" : "0x0515",
 		"name" : "China Construction Bank",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1302,
 		"hexId" : "0x0516",
 		"name" : "Agricultural Bank of China",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1303,
 		"hexId" : "0x0517",
 		"name" : "Bank of China",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1304,
 		"hexId" : "0x0518",
 		"name" : "China Development Bank",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1305,
 		"hexId" : "0x0519",
 		"name" : "Bank of Communications",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1306,
 		"hexId" : "0x051A",
 		"name" : "Postal Savings Bank of China (PSBC)",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1307,
 		"hexId" : "0x051B",
 		"name" : "Industrial Bank Co Ltd",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1308,
 		"hexId" : "0x051C",
 		"name" : "China Merchants Bank",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1309,
 		"hexId" : "0x051D",
 		"name" : "Agricultural Development Bank of China",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1310,
 		"hexId" : "0x051E",
 		"name" : "Shanghai Pudong Development Bank",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1311,
 		"hexId" : "0x051F",
 		"name" : "China Minsheng Banking Corp",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1312,
 		"hexId" : "0x0520",
 		"name" : "China Citic Bank Corp",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1313,
 		"hexId" : "0x0521",
 		"name" : "China Everbright Bank",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
         {
 		"id" :1314,
 		"hexId" : "0x0522",
 		"name" : "The Export-Import Bank of China (Eximbank)",
-		"region" : "DPRC"
+		"region" : "PRC"
 		},
 
         {
