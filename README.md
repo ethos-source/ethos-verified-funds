@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Ethos-Verified-Funds is a smart contract that programatically and deterministically validates the origination of transactions that come from verified intitutions [(data/ethos-vsf-institutions.json)](https://raw.githubusercontent.com/ethos-source/ethos-verified-funds/master/data/ethos-vsf-institution.json). Ethos-Verified-Funds acts as a registry that, given a wallet address, can issue claims (tokens) validating the authenticity of the source of the funds associated to that address. The goal of this registry is to provide a central point of reference for on-chain claims related to the source of funds for given investements.
+Ethos-Verified-Funds is a smart contract that programatically and deterministically validates the origination of transactions that come from verified intitutions [(data/ethos-vsf-institution.json)](https://raw.githubusercontent.com/ethos-source/ethos-verified-funds/master/ethos-vsf-institution.md). Ethos-Verified-Funds acts as a registry that, given a wallet address, can issue claims (tokens) validating the authenticity of the source of the funds associated to that address. The goal of this registry is to provide a central point of reference for on-chain claims related to the source of funds for given investements.
 
 ## Specification
 
