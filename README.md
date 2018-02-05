@@ -28,7 +28,7 @@ To be used by the `issuer` to remove a claim it has made, or by a `subject` to r
 
 `function removeClaim(address issuer, address subject, bytes32 key) public;`
 
-## Proposed Implementation
+## Reference Implementation
 ```
 contract Ethos-Verified-Funds {
 
