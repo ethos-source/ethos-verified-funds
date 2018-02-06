@@ -1,5 +1,35 @@
 ﻿# Ethos Verified Institutions Datasource
 
+## Broker/Dealers
+id | hexId | name | region
+--- | --- | --- | ---
+208 | 0x00D0 | Fidelity | US
+204 | 0x00CC | Charles Schwab | US
+200 | 0x00C8 | Ameriprise Financial | US
+207 | 0x00CF | Edward Jones | US
+217 | 0x00D9 | Raymond James Financial | US
+220 | 0x00DC | TD Ameritrade | US
+201 | 0x00C9 | AXA Advisors | US
+212 | 0x00D4 | LPL Financial | US
+214 | 0x00D6 | National Planning Corporation | US
+224 | 0x00E0 | Wells Fargo Advisors | US
+206 | 0x00CE | Commonwealth Financial Network | US
+216 | 0x00D8 | Northwest Mutual Investment Services | US
+202 | 0x00CA | Cambridge Investment Research | US
+223 | 0x00DF | Waddell and Reed | US
+221 | 0x00DD | Transamerica Financial | US
+218 | 0x00DA | Securities America | US
+205 | 0x00CD | Commonwealth Equity | US
+222 | 0x00DE | Voya | US
+213 | 0x00D5 | MML Investor Services | US
+209 | 0x00D1 | First Allied Securities | US
+211 | 0x00D3 | Lincoln Investment | US
+203 | 0x00CB | Cetera Advisor Networks | US
+219 | 0x00DB | Securities Service Network | US
+210 | 0x00D2 | Kestra Investment Services | US
+215 | 0x00D7 | NFP Advisor Services | US
+
+## Banking Institutions
 id | hexId | name | region
 --- | --- | --- | ---
 1300 | 0x0514 | Industrial and Commercial Bank of China | PRC
@@ -330,3 +360,198 @@ id | hexId | name | region
 1614 | 0x064E | Standard Chartered Bank Singapore | SG
 1615 | 0x064F | Islamic Bank of Asia | SG
 1616 | 0x0650 | United Overseas Bank (UOB) | SG
+
+## Monetary Authorities
+id | hexId | name | region
+--- | --- | --- | ---
+2100 | 0x0834 | Bank of Afghanistan | Afghanistan
+2101 | 0x0835 | Bank of Albania | Albania
+2102 | 0x0836 | Bank of Algeria | Algeria
+2103 | 0x0837 | National Bank of Angola | Angola
+2104 | 0x0838 | Central Bank of Argentina | Argentina
+2105 | 0x0839 | Central Bank of Armenia | Armenia
+2106 | 0x083A | Central Bank of Aruba | Aruba
+2107 | 0x083B | Reserve Bank of Australia | Australia
+2108 | 0x083C | National Bank of the Republic of Austria | Austria
+2109 | 0x083D | The Central Bank of the Republic of Azerbaijan | Azerbaijan
+2110 | 0x083E | Central Bank of The Bahamas | Bahamas
+2111 | 0x083F | Central Bank of Bahrain | Bahrain
+2112 | 0X0840 | Bangladesh Bank | Bangladesh
+2113 | 0X0841 | Central Bank of Barbados | Barbados
+2114 | 0X0842 | National Bank of the Republic of Belarus | Belarus
+2115 | 0X0843 | National Bank of Belgium | Belgium
+2116 | 0X0844 | Central Bank of Belize | Belize
+2117 | 0X0845 | Central Bank of West African States (BCEAO) | Benin
+2118 | 0X0846 | Bermuda Monetary Authority | Bermuda
+2119 | 0X0847 | Royal Monetary Authority of Bhutan | Bhutan
+2120 | 0X0848 | Central Bank of Bolivia | Bolivia
+2121 | 0X0849 | Central Bank of Bosnia and Herzegovina | Bosnia and Herzegovina
+2122 | 0X084A | Bank of Botswana | Botswana
+2123 | 0X084B | Central Bank of Brazil | Brazil
+2124 | 0X084C | Monetary Authority of Brunei Darussalam | Brunei Darussalam
+2125 | 0X084D | Bulgarian National Bank | Bulgaria
+2126 | 0X084E | Central Bank of West African States (BCEAO) | Burkina Faso
+2127 | 0X084F | Bank of the Republic of Burundi | Burundi
+2128 | 0x0850 | National Bank of Cambodia | Cambodia
+2129 | 0x0851 | Bank of Central African States | Cameroon
+2130 | 0x0852 | Bank of Canada | Canada
+2131 | 0x0853 | Bank of Cape Verde | Cape Verde
+2132 | 0x0854 | Cayman Islands Monetary Authority | Cayman Islands
+2133 | 0x0855 | Bank of Central African States | Central African Republic
+2134 | 0x0856 | Bank of Central African States | Chad
+2135 | 0x0857 | Central Bank of Chile | Chile
+2136 | 0x0858 | The People's Bank of China | China
+2137 | 0x0859 | Bank of the Republic | Colombia
+2138 | 0x085A | Bank of Central African States | Congo
+2139 | 0x085B | the Democratic Republic of the | Congo
+2140 | 0x085C | Central Bank of Costa Rica | Costa Rica
+2141 | 0x085D | Croatian National Bank | Croatia
+2142 | 0x085E | Central Bank of Cuba | Cuba
+2143 | 0x085F | Central Bank of Cura̤ao and Sint Maarten | Cura̤ao
+2144 | 0x0860 | Central Bank of Cyprus | Cyprus
+2145 | 0x0861 | Czech National Bank | Czech Republic
+2146 | 0x0862 | National Bank of Denmark (Danmarks Nationalbank) | Denmark
+2147 | 0x0863 | Central Bank of the Dominican Republic | Dominican Republic
+2148 | 0x0864 | Central Bank of Ecuador | Ecuador
+2149 | 0x0865 | Central Bank of Egypt | Egypt
+2150 | 0x0866 | Central Reserve Bank of El Salvador | El Salvador
+2151 | 0x0867 | Bank of Central African States | Equatorial Guinea
+2152 | 0x0868 | Bank of Estonia | Estonia
+2153 | 0x0869 | National Bank of Ethiopia | Ethiopia
+2154 | 0x086A | European Central Bank | Euro area
+2155 | 0x086B | Reserve Bank of Fiji | Fiji
+2156 | 0x086C | Bank of Finland | Finland
+2157 | 0x086D | Bank of France | France
+2158 | 0x086E | Bank of Central African States | Gabon
+2159 | 0x086F | The | Gambia
+2160 | 0x0870 | National Bank of Georgia | Georgia
+2161 | 0x0871 | Deutsche Bundesbank | Germany
+2162 | 0x0872 | Bank of Ghana | Ghana
+2163 | 0x0873 | Bank of Greece | Greece
+2164 | 0x0874 | Bank of Guatemala | Guatemala
+2165 | 0x0875 | Central Bank of the Republic of Guinea | Guinea
+2166 | 0x0876 | Central Bank of West African States (BCEAO) | Guinea-Bissau
+2167 | 0x0877 | Bank of Guyana | Guyana
+2168 | 0x0878 | Bank of the Republic of Haiti | Haiti
+2169 | 0x0879 | Central Bank of Honduras | Honduras
+2170 | 0x087A | Hong Kong Monetary Authority | Hong Kong SAR
+2171 | 0x087B | Magyar Nemzeti Bank (Central Bank of Hungary) | Hungary
+2172 | 0x087C | Central Bank of Iceland | Iceland
+2173 | 0x087D | Reserve Bank of India | India
+2174 | 0x087E | Bank Indonesia | Indonesia
+2175 | 0x087F | Islamic Republic of | Iran
+2176 | 0x0880 | Central Bank of Iraq | Iraq
+2177 | 0x0881 | Central Bank of Ireland | Ireland
+2178 | 0x0882 | Bank of Israel | Israel
+2179 | 0x0883 | Bank of Italy | Italy
+2180 | 0x0884 | Central Bank of West African States (BCEAO) | Ivory Coast
+2181 | 0x0885 | Bank of Jamaica | Jamaica
+2182 | 0x0886 | Bank of Japan | Japan
+2183 | 0x0887 | Central Bank of Jordan | Jordan
+2184 | 0x0888 | National Bank of Kazakhstan | Kazakhstan
+2185 | 0x0889 | Central Bank of Kenya | Kenya
+2186 | 0x088A | Republic of | Korea
+2187 | 0x088B | Central Bank of the Republic of Kosovo | Kosovo
+2188 | 0x088C | Central Bank of Kuwait | Kuwait
+2189 | 0x088D | National Bank of the Kyrgyz Republic | Kyrgyzstan
+2190 | 0x088E | Bank of the Lao PDR | Lao People's Democratic Republic
+2191 | 0x088F | Bank of Latvia | Latvia
+2192 | 0x0890 | Central Bank of Lebanon | Lebanon
+2193 | 0x0891 | Central Bank of Lesotho | Lesotho
+2194 | 0x0892 | Central Bank of Liberia | Liberia
+2195 | 0x0893 | State of | Libya
+2196 | 0x0894 | Bank of Lithuania | Lithuania
+2197 | 0x0895 | Central Bank of Luxembourg | Luxembourg
+2198 | 0x0896 | Monetary Authority of Macao | Macao SAR
+2199 | 0x0897 | the Former Yugoslav Republic of | Macedonia
+2200 | 0x0898 | Central Bank of Madagascar | Madagascar
+2201 | 0x0899 | Reserve Bank of Malawi | Malawi
+2202 | 0x089A | Central Bank of Malaysia | Malaysia
+2203 | 0x089B | Maldives Monetary Authority | Maldives
+2204 | 0x089C | Central Bank of West African States (BCEAO) | Mali
+2205 | 0x089D | Central Bank of Malta | Malta
+2206 | 0x089E | Bank of Mauritius | Mauritius
+2207 | 0x089F | Bank of Mexico | Mexico
+2208 | 0x08A0 | Republic of | Moldova
+2209 | 0x08A1 | Bank of Mongolia | Mongolia
+2210 | 0x08A2 | Central Bank of Montenegro | Montenegro
+2211 | 0x08A3 | Central Bank of Morocco | Morocco
+2212 | 0x08A4 | Bank of Mozambique | Mozambique
+2213 | 0x08A5 | Central Bank of Myanmar | Myanmar
+2214 | 0x08A6 | Bank of Namibia | Namibia
+2215 | 0x08A7 | Central Bank of Nepal (Nepal Rastra Bank) | Nepal
+2216 | 0x08A8 | Netherlands Bank | Netherlands
+2217 | 0x08A9 | Reserve Bank of New Zealand | New Zealand
+2218 | 0x08AA | Central Bank of Nicaragua | Nicaragua
+2219 | 0x08AB | Central Bank of West African States (BCEAO) | Niger
+2220 | 0x08AC | Central Bank of Nigeria | Nigeria
+2221 | 0x08AD | Central Bank of Norway (Norges Bank) | Norway
+2222 | 0x08AE | Central Bank of Oman | Oman
+2223 | 0x08AF | Eastern Caribbean Central Bank | Organization of Eastern Caribbean States (OECS)
+2224 | 0x08B0 | State Bank of Pakistan | Pakistan
+2225 | 0x08B1 | Palestine Monetary Authority | Palestine
+2226 | 0x08B2 | National Bank of Panama (Banco Nacional de Panam��) | Panama
+2227 | 0x08B3 | Bank of Papua New Guinea | Papua New Guinea
+2228 | 0x08B4 | Central Bank of Paraguay | Paraguay
+2229 | 0x08B5 | Central Reserve Bank of Peru | Peru
+2230 | 0x08B6 | Central Bank of the Philippines (Bangko Sentral ng Pilipinas) | Philippines
+2231 | 0x08B7 | National Bank of Poland | Poland
+2232 | 0x08B8 | Bank of Portugal | Portugal
+2233 | 0x08B9 | Qatar Central Bank | Qatar
+2234 | 0x08BA | National Bank of Romania | Romania
+2235 | 0x08BB | Central Bank of the Russian Federation | Russian Federation
+2236 | 0x08BC | National Bank of Rwanda | Rwanda
+2237 | 0x08BD | Central Bank of Samoa | Samoa
+2238 | 0x08BE | Central Bank of the Republic of San Marino | San Marino
+2239 | 0x08BF | Saudi Arabian Monetary Authority | Saudi Arabia
+2240 | 0x08C0 | Central Bank of West African States (BCEAO) | Senegal
+2241 | 0x08C1 | National Bank of Serbia | Serbia
+2242 | 0x08C2 | Central Bank of Seychelles | Seychelles
+2243 | 0x08C3 | Bank of Sierra Leone | Sierra Leone
+2244 | 0x08C4 | Monetary Authority of Singapore | Singapore
+2245 | 0x08C5 | National Bank of Slovakia | Slovakia
+2246 | 0x08C6 | Bank of Slovenia | Slovenia
+2247 | 0x08C7 | Central Bank of Solomon Islands | Solomon Islands
+2248 | 0x08C8 | South African Reserve Bank | South Africa
+2249 | 0x08C9 | Bank of Spain | Spain
+2250 | 0x08CA | Central Bank of Sri Lanka | Sri Lanka
+2251 | 0x08CB | Bank of Sudan | Sudan
+2252 | 0x08CC | Central Bank of Suriname | Suriname
+2253 | 0x08CD | The Central Bank of Swaziland | Swaziland
+2254 | 0x08CE | Sveriges Riksbank | Sweden
+2255 | 0x08CF | Swiss National Bank | Switzerland
+2256 | 0x08D0 | Central Bank of Syria | Syrian Arab Republic
+2257 | 0x08D1 | National Bank of the Republic of Tajikistan | Tajikistan
+2258 | 0x08D2 | United Republic of | Tanzania
+2259 | 0x08D3 | Bank of Thailand | Thailand
+2260 | 0x08D4 | Central Bank of West African States (BCEAO) | Togo
+2261 | 0x08D5 | National Reserve Bank of Tonga | Tonga
+2262 | 0x08D6 | Central Bank of Trinidad and Tobago | Trinidad and Tobago
+2263 | 0x08D7 | Central Bank of Tunisia | Tunisia
+2264 | 0x08D8 | Central Bank of the Republic of Turkey | Turkey
+2265 | 0x08D9 | Central Bank of Turkmenistan | Turkmenistan
+2266 | 0x08DA | Bank of Uganda | Uganda
+2267 | 0x08DB | National Bank of Ukraine | Ukraine
+2268 | 0x08DC | Central Bank of the United Arab Emirates | United Arab Emirates
+2269 | 0x08DD | Bank of England | United Kingdom
+2270 | 0x08DE | Federal Reserve Bank of Atlanta | United States
+2271 | 0x08DF | Federal Reserve Bank of Boston | United States 
+2272 | 0x08E0 | Federal Reserve Bank of Chicago | United States
+2273 | 0x08E1 | Federal Reserve Bank of Cleveland | United States
+2274 | 0x08E2 | Federal Reserve Bank of Dallas | United States
+2275 | 0x08E3 | Federal Reserve Bank of Kansas City | United States
+2276 | 0x08E4 | Federal Reserve Bank of Minneapolis | United States
+2277 | 0x08E5 | Federal Reserve Bank of New York | United States
+2278 | 0x08E6 | Federal Reserve Bank of Philadelphia | United States
+2279 | 0x08E7 | Federal Reserve Bank of Richmond | United States
+2280 | 0x08E8 | Federal Reserve Bank of San Francisco | United States
+2281 | 0x08E9 | Federal Reserve Bank of St Louis | United States
+2282 | 0x08EA | Board of Governors of the Federal Reserve System | United States
+2283 | 0x08EB | Central Bank of Uruguay | Uruguay
+2284 | 0x08EC | Central Bank of the Republic of Uzbekistan | Uzbekistan
+2285 | 0x08ED | Reserve Bank of Vanuatu | Vanuatu
+2286 | 0x08EE | Central Bank of Venezuela | Venezuela
+2287 | 0x08EF | State Bank of Vietnam | Vietnam
+2288 | 0x08F0 | Central Bank of Yemen | Yemen
+2289 | 0x08F1 | Bank of Zambia | Zambia
+2290 | 0x08F2 | Reserve Bank of Zimbabwe | Zimbabwe
